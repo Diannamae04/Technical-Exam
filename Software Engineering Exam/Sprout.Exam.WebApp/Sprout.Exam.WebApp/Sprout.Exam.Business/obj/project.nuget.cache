@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWAWuoFjd386fdDmiufqRRf0n1JI8dLIOs0tY3kRCFhnV6iXP2GpJ1mw/d5aTswHCgRK8LTqmwf1QJYDCt18ug==",
+  "success": true,
+  "projectFilePath": "D:\\Software Engineering Exam-20230607T023431Z-001\\Software Engineering Exam\\Sprout.Exam.WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Business\\Sprout.Exam.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SaveMe01\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\SaveMe01\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\SaveMe01\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
